@@ -13,6 +13,7 @@ I'm an M.Sc student of Nanotechnology-Nanomaterials from School of Advanced Tech
 We are working on Nanomaterial synthesis and industrialization. Scale-up problems exist in industrial processes and makes it harder to make decisions, here we face these problems and try to eliminate them.
 
 As a dream of mine from chiledhood, I like solving problems which I face. I'm glad to cooperate and join technology teams.
+
 Interests
 ======
 1. Nanotechnology
