@@ -43,8 +43,8 @@ Skills
 
 Languages
 ======
-  English : Professional
-  Persian : Mother tongue
+  * English : Professional
+  * Persian : Mother tongue
   
 Service and leadership
 ======
