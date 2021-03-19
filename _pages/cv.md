@@ -27,31 +27,40 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* PhotoShop
+* Sale
+  * Communication
+  * Presentation
+  * Negotiation
+  * Time Management and Planning
+  * Collaboration
+  * Curiosity
+* Nanomaterial Synthesis
+* Nanomaterial Analysis
+* Industrialization
+* Market Research
+* Data mining
 
-Publications
+Languages
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  English : Professional
+  Persian : Mother tongue
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in Nano Energy team
+
+Certificates & Courses
+======
+* QFM
+* MS Project
+* EFQM system
+* Film editing (adobe premiere)
+* HSE
+* Principles of energy in the building
+* Raman Spectroscopy
+* crisis management
+* Engineering Excel Sofrware
+* Mini MBA
+* Primavera
+* Future of Industrial Engineering
