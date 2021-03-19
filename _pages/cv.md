@@ -11,21 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+*  M.S. in Nanotechnology-Nanomaterials, Iran university of Science and Technology (IUST), 2018-up till now
+*  B.S. in industrial engineering, Payame Noor University-jahrom, 2011-2016
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Researcher : 2018-up till now
+  * Iran University of Science and Technology, School of Advanced Sciences
+  * Duties included: Nanomaterial synthesis, Data mining, Industrialization, Market Research
+  * Supervisor: Dr. Sadeg Sadeghzadeh
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Salesman : 2011-2015
+  * Iran-Shiraz
+  * Duties included: Marketing, Present, promote and sell products/services, Analyze the territory/market’s potential, Supply management
   
 Skills
 ======
